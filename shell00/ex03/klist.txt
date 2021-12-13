@@ -1,0 +1,5 @@
+Credentials cache: API:D19BB2B3-9162-4650-84B8-4361F2BAB277
+        Principal: gcontari@42LISBOA.COM
+
+  Issued                Expires             Flags    Principal
+Jun 28 14:50:32 2021  Jun 29 00:50:22 2021  FPIA   krbtgt/42LISBOA.COM@42LISBOA.COM
